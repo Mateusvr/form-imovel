@@ -1,0 +1,31 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    margin: auto;
+    width: 35%;
+    border-color: #0075ff;
+    border: 3px solid #0075ff;
+    border-radius: 5px;
+    background-color: #e4e5e7;
+    padding: 5px 100px 5px 100px;
+ }
+
+.label{
+    display: block;
+ }
+
+#bsubmit{
+    margin-top: 15px;
+    color: rgb(240, 255, 255);
+    background-color: #0077ff;
+    border-color: #0075ff;
+}
+
+#breset{
+    color: #0075ff;
+    background-color: #e4e5e7;
+}
